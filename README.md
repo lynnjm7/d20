@@ -17,8 +17,9 @@ command line.
 Both RNGs use a custom implementation (not a 3rd party library).
 
 # Purpose of the Project
-This is not a technically intersting project. It doesn't have very much depth 
-to it. The main goal for this project was to play with Rust a little more.
+There isn't too much technically challenging things in this project. The 
+primary goal of this project is to just tinker with Rust on a somewhat 
+interestingly sized project.
 
 # License
 This is released under an MIT license. See the `LICENSE.txt` file.
