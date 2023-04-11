@@ -32,7 +32,7 @@ impl<Generator: PRNG> Dice<Generator> {
     }
 
     pub fn d_percent() -> Dice<Generator> {
-        Self::from_sides(100) // TODO(jlynn): This isn't going to work for what I want. The percent dice is going to be a special case.
+        Self::from_sides(100)
     }
 
     pub fn from_sides(sides: u64) -> Dice<Generator> {
